@@ -20,6 +20,7 @@
     "dependencies": 8,
     "suits": 1,
     "parking_spaces": 2,
+    "pools": 1,
     "details": "Proximidade POSTO IPIRANGA, 3 dormitórios (1 suíte), 2 banheiros, 8 dependências, 2 vagas (garagem), 300m2 de área total, 300 m2 de área útil, 10.0 m de frente, 30.0 m de lateral.",
     "description": "Sobrado Construção nova - Ótimo acabamento 300m de área construída. Possui 3 dormitórios sendo 1 suíte, sala ampla, cozinha americana com churrasqueira. CONFIRA!.",
     "images": [
@@ -60,6 +61,7 @@
     "dependencies": 2,
     "suits": 2,
     "parking_spaces": 2,
+    "pools": 0,
     "details": "Lorem ipsun Lorem ipsun Lorem ipsun Lorem ipsun Lorem ipsun Lorem ipsun Lorem ipsun Lorem ipsun Lorem ipsun vLorem ipsun Lorem ipsun ",
     "description": "Ipsun Lorem Ipsun Lorem Ipsun Lorem Ipsun Lorem Ipsun Lorem Ipsun Lorem Ipsun Lorem Ipsun Lorem Ipsun Lorem Ipsun Lorem Ipsun Lorem Ipsun Lorem Ipsun Lorem Ipsun Lorem Ipsun Lorem Ipsun Lorem Ipsun Lorem Ipsun Lorem Ipsun Lorem Ipsun Lorem Ipsun Lorem Ipsun Lorem Ipsun Lorem Ipsun Lorem Ipsun Lorem Ipsun Lorem Ipsun Lorem ",
     "images": [
